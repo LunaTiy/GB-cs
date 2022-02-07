@@ -1,0 +1,16 @@
+D:\Learn\GB cs\GB_lesson1\bin\Debug\net5.0\GB_lesson1.exe
+D:\Learn\GB cs\GB_lesson1\bin\Debug\net5.0\GB_lesson1.deps.json
+D:\Learn\GB cs\GB_lesson1\bin\Debug\net5.0\GB_lesson1.runtimeconfig.json
+D:\Learn\GB cs\GB_lesson1\bin\Debug\net5.0\GB_lesson1.runtimeconfig.dev.json
+D:\Learn\GB cs\GB_lesson1\bin\Debug\net5.0\GB_lesson1.dll
+D:\Learn\GB cs\GB_lesson1\bin\Debug\net5.0\ref\GB_lesson1.dll
+D:\Learn\GB cs\GB_lesson1\bin\Debug\net5.0\GB_lesson1.pdb
+D:\Learn\GB cs\GB_lesson1\obj\Debug\net5.0\GB_lesson1.csproj.AssemblyReference.cache
+D:\Learn\GB cs\GB_lesson1\obj\Debug\net5.0\GB_lesson1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\GB cs\GB_lesson1\obj\Debug\net5.0\GB_lesson1.AssemblyInfoInputs.cache
+D:\Learn\GB cs\GB_lesson1\obj\Debug\net5.0\GB_lesson1.AssemblyInfo.cs
+D:\Learn\GB cs\GB_lesson1\obj\Debug\net5.0\GB_lesson1.csproj.CoreCompileInputs.cache
+D:\Learn\GB cs\GB_lesson1\obj\Debug\net5.0\GB_lesson1.dll
+D:\Learn\GB cs\GB_lesson1\obj\Debug\net5.0\ref\GB_lesson1.dll
+D:\Learn\GB cs\GB_lesson1\obj\Debug\net5.0\GB_lesson1.pdb
+D:\Learn\GB cs\GB_lesson1\obj\Debug\net5.0\GB_lesson1.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GB_lesson1/1.0.0": {
+        "runtime": {
+          "GB_lesson1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GB_lesson1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
