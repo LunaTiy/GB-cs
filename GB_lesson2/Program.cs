@@ -15,25 +15,17 @@ namespace GB_lesson2
 		{
 			int a = 5, b = 8, c = 7;
 			Console.WriteLine($"Задание 1.\nДаны 3 числа: a = {a},  b = {b}, c = {c}");
-			int max = FindMax(a, b, c);
-			Console.WriteLine("Максимальное число: " + max);
+			int max = FindMin(a, b, c);
+			Console.WriteLine("Минимальное число: " + max);
 		}
-		static int FindMax(int a, int b, int c)
+		static int FindMin(int a, int b, int c)
 		{
-			if(a > b)
-			{
-				if (a > c)				
-					return a;				
-				else
-					return c;
-			}
-			else
-			{
-				if (b > c)
-					return b;
-				else
-					return c;
-			}
+			int num = a;
+
+			if (num > b) num = b;
+			if (num > c) num = c;
+
+			return num;
 		}
 
 		// 2. Написать метод подсчета количества цифр числа.
@@ -58,7 +50,7 @@ namespace GB_lesson2
 		// 3. С клавиатуры вводятся числа, пока не будет введен 0. Подсчитать сумму всех нечетных положительных чисел.
 		static void Exercise3()
 		{
-			Console.WriteLine("\nЗадание 3.\n");
+			Console.WriteLine("\nЗадание 3.");
 			int tmp, sum = 0;
 
 			while (true)
@@ -92,7 +84,7 @@ namespace GB_lesson2
 		 */
 		static void Exercise4()
 		{
-			Console.WriteLine("\nЗадание 4.\n");
+			Console.WriteLine("\nЗадание 4.");
 
 			string login, pass;
 			int count = 3;
@@ -150,7 +142,7 @@ namespace GB_lesson2
 		 */
 		static void Exercise5()
 		{
-			Console.WriteLine("\nЗадание 5.\n");
+			Console.WriteLine("\nЗадание 5.");
 			double height, weight;
 
 			Console.WriteLine("Введите ваш рост: ");
@@ -191,7 +183,7 @@ namespace GB_lesson2
 		 */
 		static void Exercise6()
 		{
-			Console.WriteLine("\nЗадание 6.\n");
+			Console.WriteLine("\nЗадание 6.");
 
 			Stopwatch timer = new Stopwatch();
 			timer.Start();
@@ -236,10 +228,12 @@ namespace GB_lesson2
 
 		static void Exercise7()
 		{
-			Console.WriteLine("\nЗадание 7.\n");
+			Console.WriteLine("\nЗадание 7.");
 
 			const int a = 2, b = 20;
 			Output(a, b);
+
+			Console.WriteLine("\nСумма чисел: " + Sum(a, b));
 		}
 
 		static void Output(int a, int b)
@@ -251,9 +245,16 @@ namespace GB_lesson2
 			}
 
 			Console.Write(a + " ");
-			a++;
 
-			Output(a, b);
+			Output(a + 1, b);
+		}
+
+		static int Sum(int a, int b)
+		{
+			if (a == b)
+				return a;
+
+			return a + Sum(a + 1, b);
 		}
 
 		static void Main(string[] args)
