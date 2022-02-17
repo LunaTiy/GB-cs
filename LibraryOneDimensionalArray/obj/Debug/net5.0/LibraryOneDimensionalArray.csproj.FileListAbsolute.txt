@@ -1,0 +1,11 @@
+D:\Learn\GB-cs\LibraryOneDimensionalArray\bin\Debug\net5.0\LibraryOneDimensionalArray.deps.json
+D:\Learn\GB-cs\LibraryOneDimensionalArray\bin\Debug\net5.0\LibraryOneDimensionalArray.dll
+D:\Learn\GB-cs\LibraryOneDimensionalArray\bin\Debug\net5.0\ref\LibraryOneDimensionalArray.dll
+D:\Learn\GB-cs\LibraryOneDimensionalArray\bin\Debug\net5.0\LibraryOneDimensionalArray.pdb
+D:\Learn\GB-cs\LibraryOneDimensionalArray\obj\Debug\net5.0\LibraryOneDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\GB-cs\LibraryOneDimensionalArray\obj\Debug\net5.0\LibraryOneDimensionalArray.AssemblyInfoInputs.cache
+D:\Learn\GB-cs\LibraryOneDimensionalArray\obj\Debug\net5.0\LibraryOneDimensionalArray.AssemblyInfo.cs
+D:\Learn\GB-cs\LibraryOneDimensionalArray\obj\Debug\net5.0\LibraryOneDimensionalArray.csproj.CoreCompileInputs.cache
+D:\Learn\GB-cs\LibraryOneDimensionalArray\obj\Debug\net5.0\LibraryOneDimensionalArray.dll
+D:\Learn\GB-cs\LibraryOneDimensionalArray\obj\Debug\net5.0\ref\LibraryOneDimensionalArray.dll
+D:\Learn\GB-cs\LibraryOneDimensionalArray\obj\Debug\net5.0\LibraryOneDimensionalArray.pdb

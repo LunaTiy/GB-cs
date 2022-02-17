@@ -1,0 +1,12 @@
+D:\Learn\GB-cs\TwoDeminsionalArray\bin\Debug\net5.0\LibraryTwoDeminsionalArray.deps.json
+D:\Learn\GB-cs\TwoDeminsionalArray\bin\Debug\net5.0\LibraryTwoDeminsionalArray.dll
+D:\Learn\GB-cs\TwoDeminsionalArray\bin\Debug\net5.0\ref\LibraryTwoDeminsionalArray.dll
+D:\Learn\GB-cs\TwoDeminsionalArray\bin\Debug\net5.0\LibraryTwoDeminsionalArray.pdb
+D:\Learn\GB-cs\TwoDeminsionalArray\obj\Debug\net5.0\LibraryTwoDeminsionalArray.csproj.AssemblyReference.cache
+D:\Learn\GB-cs\TwoDeminsionalArray\obj\Debug\net5.0\LibraryTwoDeminsionalArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\GB-cs\TwoDeminsionalArray\obj\Debug\net5.0\LibraryTwoDeminsionalArray.AssemblyInfoInputs.cache
+D:\Learn\GB-cs\TwoDeminsionalArray\obj\Debug\net5.0\LibraryTwoDeminsionalArray.AssemblyInfo.cs
+D:\Learn\GB-cs\TwoDeminsionalArray\obj\Debug\net5.0\LibraryTwoDeminsionalArray.csproj.CoreCompileInputs.cache
+D:\Learn\GB-cs\TwoDeminsionalArray\obj\Debug\net5.0\LibraryTwoDeminsionalArray.dll
+D:\Learn\GB-cs\TwoDeminsionalArray\obj\Debug\net5.0\ref\LibraryTwoDeminsionalArray.dll
+D:\Learn\GB-cs\TwoDeminsionalArray\obj\Debug\net5.0\LibraryTwoDeminsionalArray.pdb

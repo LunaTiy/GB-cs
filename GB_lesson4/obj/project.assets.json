@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "LibraryOneDimensionalArray/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/LibraryOneDimensionalArray.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryOneDimensionalArray.dll": {}
+        }
+      },
+      "LibraryTwoDimensionalArray/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/LibraryTwoDimensionalArray.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryTwoDimensionalArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryOneDimensionalArray/1.0.0": {
+      "type": "project",
+      "path": "../LibraryOneDimensionalArray/LibraryOneDimensionalArray.csproj",
+      "msbuildProject": "../LibraryOneDimensionalArray/LibraryOneDimensionalArray.csproj"
+    },
+    "LibraryTwoDimensionalArray/1.0.0": {
+      "type": "project",
+      "path": "../LibraryTwoDimensionalArray/LibraryTwoDimensionalArray.csproj",
+      "msbuildProject": "../LibraryTwoDimensionalArray/LibraryTwoDimensionalArray.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "LibraryOneDimensionalArray >= 1.0.0",
+      "LibraryTwoDimensionalArray >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Даниил\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Learn\\GB-cs\\GB_lesson4\\GB_lesson4.csproj",
+      "projectName": "GB_lesson4",
+      "projectPath": "D:\\Learn\\GB-cs\\GB_lesson4\\GB_lesson4.csproj",
+      "packagesPath": "C:\\Users\\Даниил\\.nuget\\packages\\",
+      "outputPath": "D:\\Learn\\GB-cs\\GB_lesson4\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Даниил\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Learn\\GB-cs\\LibraryOneDimensionalArray\\LibraryOneDimensionalArray.csproj": {
+              "projectPath": "D:\\Learn\\GB-cs\\LibraryOneDimensionalArray\\LibraryOneDimensionalArray.csproj"
+            },
+            "D:\\Learn\\GB-cs\\LibraryTwoDimensionalArray\\LibraryTwoDimensionalArray.csproj": {
+              "projectPath": "D:\\Learn\\GB-cs\\LibraryTwoDimensionalArray\\LibraryTwoDimensionalArray.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

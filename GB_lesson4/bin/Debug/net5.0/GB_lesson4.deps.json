@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GB_lesson4/1.0.0": {
+        "dependencies": {
+          "LibraryOneDimensionalArray": "1.0.0",
+          "LibraryTwoDimensionalArray": "1.0.0"
+        },
+        "runtime": {
+          "GB_lesson4.dll": {}
+        }
+      },
+      "LibraryOneDimensionalArray/1.0.0": {
+        "runtime": {
+          "LibraryOneDimensionalArray.dll": {}
+        }
+      },
+      "LibraryTwoDimensionalArray/1.0.0": {
+        "runtime": {
+          "LibraryTwoDimensionalArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GB_lesson4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryOneDimensionalArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryTwoDimensionalArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
