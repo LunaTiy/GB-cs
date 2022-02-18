@@ -148,7 +148,7 @@ namespace LibraryTwoDeminsionalArray
 			{
 				for (int j = 0; j < _array.GetLength(1); j++)
 				{
-					Console.Write(_array[i, j] + "\t");
+					Console.Write($"{_array[i, j], 5}");
 				}
 				Console.WriteLine();
 			}
