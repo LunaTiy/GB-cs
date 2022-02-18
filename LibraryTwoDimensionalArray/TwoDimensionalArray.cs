@@ -35,8 +35,10 @@ namespace LibraryTwoDeminsionalArray
 
 			sr.Close();
 			#endregion
-
+			
 			sr = new StreamReader(fileName);
+
+			#region Заполнение массива при считывании файла
 
 			int i = 0;
 
@@ -50,6 +52,8 @@ namespace LibraryTwoDeminsionalArray
 
 				i++;
 			}
+
+			#endregion
 
 			sr.Close();
 		}
@@ -158,18 +162,29 @@ namespace LibraryTwoDeminsionalArray
 
 		public void WriteArrayInFile(string fileName)
 		{
-			StreamWriter sr = new StreamWriter(fileName);
+			StreamWriter sr = null;
 
-			for(int i = 0; i < _array.GetLength(0); i++)
+			try
 			{
-				for(int j = 0; j < _array.GetLength(1); j++)
-				{
-					sr.Write(_array[i, j] + " ");
-				}
-				sr.WriteLine();
-			}
+				sr = new StreamWriter(fileName);
 
-			sr.Close();
+				for (int i = 0; i < _array.GetLength(0); i++)
+				{
+					for (int j = 0; j < _array.GetLength(1); j++)
+					{
+						sr.Write(_array[i, j] + " ");
+					}
+					sr.WriteLine();
+				}
+			}
+			catch
+			{
+				Console.WriteLine("Отсутсвует путь для записи файла!");
+			}
+			finally
+			{
+				sr.Close();
+			}
 		}
 		#endregion
 	}
