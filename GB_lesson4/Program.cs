@@ -68,7 +68,7 @@ namespace GB_lesson4
 		{
 			Console.WriteLine("Задаине 2.");
 
-			string nameFile = "D:/Learn/GB-cs/GB_lesson4/Array.txt";
+			string nameFile = "D:/Learn/GB-cs/GB_lesson4/resources/Array.txt";
 
 			if (File.Exists(nameFile) == false)
 				return;
@@ -180,7 +180,7 @@ namespace GB_lesson4
 
 		static bool ReadFileAccounts(out Account[] accounts)
 		{
-			string accountsFile = "D:/Learn/GB-cs/GB_lesson4/Accounts.txt";
+			string accountsFile = "D:/Learn/GB-cs/GB_lesson4/resources/Accounts.txt";
 
 			if (!File.Exists(accountsFile))
 			{
@@ -244,7 +244,7 @@ namespace GB_lesson4
 
 			Console.WriteLine($"Индексы максимального эл-та массива: [{indexRowMaxElement}, {indexColumnMaxElement}]\n");
 
-			string fileName = "D:/Learn/GB-cs/GB_lesson4/Array2D.txt";
+			string fileName = "D:/Learn/GB-cs/GB_lesson4/resources/Array2D.txt";
 			if (!File.Exists(fileName))
 			{
 				Console.WriteLine("Файл с 2-ным массивом не существует!");
@@ -260,7 +260,7 @@ namespace GB_lesson4
 			fileArray2D[fileArray2D.Rows - 1, fileArray2D.Columns - 1] = -100;
 			fileArray2D.OutputArray();
 
-			string writerFileName = "D:/Learn/GB-cs/GB_lesson4/NewArray2D.txt";
+			string writerFileName = "D:/Learn/GB-cs/GB_lesson4/resources/NewArray2D.txt";
 			Console.WriteLine("Запись массива в файл: " + writerFileName);
 			fileArray2D.WriteArrayInFile(writerFileName);
 		}
