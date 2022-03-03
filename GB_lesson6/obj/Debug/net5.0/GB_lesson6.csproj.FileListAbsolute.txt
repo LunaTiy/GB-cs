@@ -1,0 +1,32 @@
+D:\Learn\GB cs\GB_lesson6\bin\Debug\net5.0\GB_lesson6.exe
+D:\Learn\GB cs\GB_lesson6\bin\Debug\net5.0\GB_lesson6.deps.json
+D:\Learn\GB cs\GB_lesson6\bin\Debug\net5.0\GB_lesson6.runtimeconfig.json
+D:\Learn\GB cs\GB_lesson6\bin\Debug\net5.0\GB_lesson6.runtimeconfig.dev.json
+D:\Learn\GB cs\GB_lesson6\bin\Debug\net5.0\GB_lesson6.dll
+D:\Learn\GB cs\GB_lesson6\bin\Debug\net5.0\ref\GB_lesson6.dll
+D:\Learn\GB cs\GB_lesson6\bin\Debug\net5.0\GB_lesson6.pdb
+D:\Learn\GB cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.csproj.AssemblyReference.cache
+D:\Learn\GB cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\GB cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.AssemblyInfoInputs.cache
+D:\Learn\GB cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.AssemblyInfo.cs
+D:\Learn\GB cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.csproj.CoreCompileInputs.cache
+D:\Learn\GB cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.dll
+D:\Learn\GB cs\GB_lesson6\obj\Debug\net5.0\ref\GB_lesson6.dll
+D:\Learn\GB cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.pdb
+D:\Learn\GB cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.genruntimeconfig.cache
+D:\Learn\GB-cs\GB_lesson6\bin\Debug\net5.0\GB_lesson6.exe
+D:\Learn\GB-cs\GB_lesson6\bin\Debug\net5.0\GB_lesson6.deps.json
+D:\Learn\GB-cs\GB_lesson6\bin\Debug\net5.0\GB_lesson6.runtimeconfig.json
+D:\Learn\GB-cs\GB_lesson6\bin\Debug\net5.0\GB_lesson6.runtimeconfig.dev.json
+D:\Learn\GB-cs\GB_lesson6\bin\Debug\net5.0\GB_lesson6.dll
+D:\Learn\GB-cs\GB_lesson6\bin\Debug\net5.0\ref\GB_lesson6.dll
+D:\Learn\GB-cs\GB_lesson6\bin\Debug\net5.0\GB_lesson6.pdb
+D:\Learn\GB-cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.csproj.AssemblyReference.cache
+D:\Learn\GB-cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\GB-cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.AssemblyInfoInputs.cache
+D:\Learn\GB-cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.AssemblyInfo.cs
+D:\Learn\GB-cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.csproj.CoreCompileInputs.cache
+D:\Learn\GB-cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.dll
+D:\Learn\GB-cs\GB_lesson6\obj\Debug\net5.0\ref\GB_lesson6.dll
+D:\Learn\GB-cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.pdb
+D:\Learn\GB-cs\GB_lesson6\obj\Debug\net5.0\GB_lesson6.genruntimeconfig.cache
