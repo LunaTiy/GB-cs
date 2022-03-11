@@ -1,0 +1,4 @@
+D:\Learn\GB-cs\GB_lesson7\GameLogic\obj\Debug\net5.0\GameLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\GB-cs\GB_lesson7\GameLogic\obj\Debug\net5.0\GameLogic.AssemblyInfoInputs.cache
+D:\Learn\GB-cs\GB_lesson7\GameLogic\obj\Debug\net5.0\GameLogic.AssemblyInfo.cs
+D:\Learn\GB-cs\GB_lesson7\GameLogic\obj\Debug\net5.0\GameLogic.csproj.CoreCompileInputs.cache
