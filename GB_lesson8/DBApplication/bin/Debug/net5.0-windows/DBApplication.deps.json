@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DBApplication/1.0.0": {
+        "dependencies": {
+          "StudentsDB": "1.0.0"
+        },
+        "runtime": {
+          "DBApplication.dll": {}
+        }
+      },
+      "StudentsDB/1.0.0": {
+        "runtime": {
+          "StudentsDB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DBApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentsDB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

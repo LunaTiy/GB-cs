@@ -1,0 +1,12 @@
+D:\Learn\GB-cs\GB_lesson8\VouchersDB\bin\Debug\net5.0\VouchersDB.deps.json
+D:\Learn\GB-cs\GB_lesson8\VouchersDB\bin\Debug\net5.0\VouchersDB.dll
+D:\Learn\GB-cs\GB_lesson8\VouchersDB\bin\Debug\net5.0\ref\VouchersDB.dll
+D:\Learn\GB-cs\GB_lesson8\VouchersDB\bin\Debug\net5.0\VouchersDB.pdb
+D:\Learn\GB-cs\GB_lesson8\VouchersDB\obj\Debug\net5.0\VouchersDB.csproj.AssemblyReference.cache
+D:\Learn\GB-cs\GB_lesson8\VouchersDB\obj\Debug\net5.0\VouchersDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\GB-cs\GB_lesson8\VouchersDB\obj\Debug\net5.0\VouchersDB.AssemblyInfoInputs.cache
+D:\Learn\GB-cs\GB_lesson8\VouchersDB\obj\Debug\net5.0\VouchersDB.AssemblyInfo.cs
+D:\Learn\GB-cs\GB_lesson8\VouchersDB\obj\Debug\net5.0\VouchersDB.csproj.CoreCompileInputs.cache
+D:\Learn\GB-cs\GB_lesson8\VouchersDB\obj\Debug\net5.0\VouchersDB.dll
+D:\Learn\GB-cs\GB_lesson8\VouchersDB\obj\Debug\net5.0\ref\VouchersDB.dll
+D:\Learn\GB-cs\GB_lesson8\VouchersDB\obj\Debug\net5.0\VouchersDB.pdb

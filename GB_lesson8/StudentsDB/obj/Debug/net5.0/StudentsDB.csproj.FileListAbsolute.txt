@@ -1,0 +1,16 @@
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\bin\Debug\net5.0\StudentsDB.exe
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\bin\Debug\net5.0\StudentsDB.deps.json
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\bin\Debug\net5.0\StudentsDB.runtimeconfig.json
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\bin\Debug\net5.0\StudentsDB.runtimeconfig.dev.json
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\bin\Debug\net5.0\StudentsDB.dll
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\bin\Debug\net5.0\ref\StudentsDB.dll
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\bin\Debug\net5.0\StudentsDB.pdb
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\obj\Debug\net5.0\StudentsDB.csproj.AssemblyReference.cache
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\obj\Debug\net5.0\StudentsDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\obj\Debug\net5.0\StudentsDB.AssemblyInfoInputs.cache
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\obj\Debug\net5.0\StudentsDB.AssemblyInfo.cs
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\obj\Debug\net5.0\StudentsDB.csproj.CoreCompileInputs.cache
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\obj\Debug\net5.0\StudentsDB.dll
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\obj\Debug\net5.0\ref\StudentsDB.dll
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\obj\Debug\net5.0\StudentsDB.pdb
+D:\Learn\GB-cs\GB_lesson8\StudentsDB\obj\Debug\net5.0\StudentsDB.genruntimeconfig.cache

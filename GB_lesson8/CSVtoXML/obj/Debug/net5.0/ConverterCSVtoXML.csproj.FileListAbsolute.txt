@@ -1,0 +1,16 @@
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\bin\Debug\net5.0\ConverterCSVtoXML.exe
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\bin\Debug\net5.0\ConverterCSVtoXML.deps.json
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\bin\Debug\net5.0\ConverterCSVtoXML.runtimeconfig.json
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\bin\Debug\net5.0\ConverterCSVtoXML.runtimeconfig.dev.json
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\bin\Debug\net5.0\ConverterCSVtoXML.dll
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\bin\Debug\net5.0\ref\ConverterCSVtoXML.dll
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\bin\Debug\net5.0\ConverterCSVtoXML.pdb
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\obj\Debug\net5.0\ConverterCSVtoXML.csproj.AssemblyReference.cache
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\obj\Debug\net5.0\ConverterCSVtoXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\obj\Debug\net5.0\ConverterCSVtoXML.AssemblyInfoInputs.cache
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\obj\Debug\net5.0\ConverterCSVtoXML.AssemblyInfo.cs
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\obj\Debug\net5.0\ConverterCSVtoXML.csproj.CoreCompileInputs.cache
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\obj\Debug\net5.0\ConverterCSVtoXML.dll
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\obj\Debug\net5.0\ref\ConverterCSVtoXML.dll
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\obj\Debug\net5.0\ConverterCSVtoXML.pdb
+D:\Learn\GB-cs\GB_lesson8\CSVtoXML\obj\Debug\net5.0\ConverterCSVtoXML.genruntimeconfig.cache
